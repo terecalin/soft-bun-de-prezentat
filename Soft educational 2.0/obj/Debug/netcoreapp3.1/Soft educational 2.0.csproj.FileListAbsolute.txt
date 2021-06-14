@@ -1,0 +1,16 @@
+E:\C#\Soft educational 2.0\bin\Debug\netcoreapp3.1\Soft educational 2.0.exe
+E:\C#\Soft educational 2.0\bin\Debug\netcoreapp3.1\Soft educational 2.0.deps.json
+E:\C#\Soft educational 2.0\bin\Debug\netcoreapp3.1\Soft educational 2.0.runtimeconfig.json
+E:\C#\Soft educational 2.0\bin\Debug\netcoreapp3.1\Soft educational 2.0.runtimeconfig.dev.json
+E:\C#\Soft educational 2.0\bin\Debug\netcoreapp3.1\Soft educational 2.0.dll
+E:\C#\Soft educational 2.0\bin\Debug\netcoreapp3.1\Soft educational 2.0.pdb
+E:\C#\Soft educational 2.0\obj\Debug\netcoreapp3.1\Soft educational 2.0.csprojAssemblyReference.cache
+E:\C#\Soft educational 2.0\obj\Debug\netcoreapp3.1\Soft_educational_2._0.Form1.resources
+E:\C#\Soft educational 2.0\obj\Debug\netcoreapp3.1\Soft_educational_2._0.Properties.Resources.resources
+E:\C#\Soft educational 2.0\obj\Debug\netcoreapp3.1\Soft educational 2.0.csproj.GenerateResource.cache
+E:\C#\Soft educational 2.0\obj\Debug\netcoreapp3.1\Soft educational 2.0.AssemblyInfoInputs.cache
+E:\C#\Soft educational 2.0\obj\Debug\netcoreapp3.1\Soft educational 2.0.AssemblyInfo.cs
+E:\C#\Soft educational 2.0\obj\Debug\netcoreapp3.1\Soft educational 2.0.csproj.CoreCompileInputs.cache
+E:\C#\Soft educational 2.0\obj\Debug\netcoreapp3.1\Soft educational 2.0.dll
+E:\C#\Soft educational 2.0\obj\Debug\netcoreapp3.1\Soft educational 2.0.pdb
+E:\C#\Soft educational 2.0\obj\Debug\netcoreapp3.1\Soft educational 2.0.genruntimeconfig.cache
